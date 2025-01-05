@@ -38,8 +38,14 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 <br> <br> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apolo-itnet&show_icons=true&locale=en&layout=compact" alt="apolo-itnet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apolo-itnet&show_icons=true&locale=en" alt="apolo-itnet" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apolo-itnet&" alt="apolo-itnet" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apolo-itnet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&card_width=450&locale=en&hide_border=false" height="150" alt="apolo-itnet"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apolo-itnet&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apolo-itnet&theme=dracula&" alt="apolo-itnet" /></p>
