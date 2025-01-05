@@ -13,16 +13,15 @@
 
 - 📫 How to reach me **apolo.itnet@gmail.com**
 
+
   ##
 
-  <br> <br> 
+  <br> <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  ###
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<h3 align="center"> 💻 Languages and Tools⚡:</h3> <hr>
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -41,9 +40,23 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
-<br> <br> 
+<br> 
 
 ###
+<h3 align="center">🌐 Connect with Me 🍬</h3> <hr>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="22" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="22" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="22" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="22" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="22" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="22" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="22" alt="twitter logo"  />
+</div>
+
+###
+
+<br> <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apolo-itnet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&card_width=450&locale=en&hide_border=false" height="150" alt="apolo-itnet"  />
