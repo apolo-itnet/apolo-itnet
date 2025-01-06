@@ -1,5 +1,4 @@
-
-
+![Cover Image](cover-apolo.png) <hr>
 
 <h1 align="center">Hi 👋, I'm Apolo Barua Apurbo</h1>
 <h3 align="center">A passionate MERN Stack Web developer from Bangladesh</h3>
