@@ -1,3 +1,10 @@
+![Cover Image](Cover.png) <hr>
+
+<div align="center">
+  <img src="Cover.png" alt="Cover Image" width="800" height="350">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Apolo Barua Apurbo</h1>
 <h3 align="center">A passionate MERN Stack Web developer from Bangladesh</h3>
 
