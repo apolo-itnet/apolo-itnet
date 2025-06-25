@@ -1,84 +1,78 @@
 ![Cover Image](cover-apolo.png) <hr>
 
 <h1 align="center">Hi 👋, I'm Apolo Barua Apurbo</h1>
-<h3 align="center">A passionate MERN Stack Web developer from Bangladesh</h3>
+<h3 align="center">A passionate and detail-oriented MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
 
-<img  align="right"   alt="coding"   width="320"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apolo-itnet&label=Profile%20views&color=0e75b6&style=flat" alt="apolo-itnet" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=apolo-itnet&label=Profile%20views&color=0e75b6&style=flat" alt="apolo-itnet" />
+</p>
 
-- 🔭 I’m currently working on **Chevron Clinical Laboratory**
+- 🔭 Currently working at **Chevron Clinical Laboratory** as a Web Developer  
+- 💻 Building full-stack web applications with **React.js**, **Firebase**, **Node.js**, **Express**, and **MongoDB**  
+- 🎯 Skilled in turning business requirements into efficient, modern web apps  
+- 🌱 Currently exploring advanced topics like **Authentication, JWT, Redux Toolkit, REST APIs, and Deployment**  
+- 🧰 Passionate about writing clean, scalable, and maintainable code  
+- 🌐 Visit my portfolio: [ab-itnet.com](https://www.ab-itnet.com)  
+- 📫 Reach me at: **apolo.itnet@gmail.com**
+ <br>
 
-- 🌱 I’m currently learning **JS, React, Firebase, Node.JS, Express.JS, MongoDB**
+ ---
+ 
+### 🛠️ Tech Stack & Tools
 
-- 👨‍💻 All of my projects are available at [https://www.ab-itnet.com](https://www.ab-itnet.com)
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS" />  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40" alt="Dev Tools" />  <img width="12" />
+</div>
 
-- 📫 How to reach me **apolo.itnet@gmail.com**
+---
 
- <br> <br>
-
-<h3 align="center">My Recent Projects</h3> <hr>
+<h3 align="center">💼 My Recent Projects</h3>
 <table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>👨🏻‍💻 Project Name</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>📬 Used tech</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/apolo-itnet/PH-B11-ABTracko-Client"><b>Courier & Delivery Project</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/apolo-itnet/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/apolo-itnet/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/apolo-itnet/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/apolo-itnet/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
-  
 <br>  
 
-<h3 align="center"> 💻 Languages and Tools⚡:</h3> <hr>
-<div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
-<br> 
+---
 
-###
-<h3 align="center">🌐 Connect with Me 🍬</h3> <hr>
+<h3 align="center">🌐 Connect with Me 🍬</h3>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="22" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="22" alt="codepen logo"  />
@@ -88,29 +82,14 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="22" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="22" alt="twitter logo"  />
 </div>
+<br>
 
-<br> <br>
-<h3 align="center"> 📊 GitHub Stats: </h3> <hr>
+---
+
+<h3 align="center"> 📊 GitHub Stats: </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apolo-itnet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&card_width=450&locale=en&hide_border=false" height="150" alt="apolo-itnet"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apolo-itnet&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div> 
 <br>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apolo-itnet&theme=gotham" alt="apolo-itnet" /></p>
- <img src="https://github-profile-trophy.vercel.app?username=apolo-itnet&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-
-## 🍃 recent contributions
-
-<p >
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mezbaaaa/apolo-itnet/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apolo-itnet/apolo-itnet/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/apolo-itnet/apolo-itnet/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-<br>
-## ✍️ Random Dev Quote
-<h3 align="left"> ✍️ Random Dev Quote </h3> <hr>
-<a> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) </a>
-<br>
