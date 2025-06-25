@@ -97,18 +97,20 @@
 </div> 
 <br>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apolo-itnet&theme=gotham" alt="apolo-itnet" /></p>
-<br> 
+ <img src="https://github-profile-trophy.vercel.app?username=apolo-itnet&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 
-## 📊 little dev progress
+## 🍃 recent contributions
 
-<p  align="center">
-  <img src="https://streak-stats.demolab.com?user=apolo-itnet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=apolo-itnet&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+<p >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mezbaaaa/apolo-itnet/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apolo-itnet/apolo-itnet/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/apolo-itnet/apolo-itnet/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
----
-<br> <br>
-
+<br>
+## ✍️ Random Dev Quote
 <h3 align="left"> ✍️ Random Dev Quote </h3> <hr>
-
-<a align="center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center) </a>
+<a> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) </a>
+<br>
