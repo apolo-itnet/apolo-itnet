@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=apolo-itnet&label=Profile%20views&color=0e75b6&style=flat" alt="apolo-itnet" />
 </p>
 
-- 🔭 Currently working at **Chevron Clinical Laboratory** as a Web Developer  
+- 🔭 Currently working at **Chevron Clinical Laboratory** as a Sr. Executive Officer ICT
 - 💻 Building full-stack web applications with **React.js**, **Firebase**, **Node.js**, **Express**, and **MongoDB**  
 - 🎯 Skilled in turning business requirements into efficient, modern web apps  
 - 🌱 Currently exploring advanced topics like **Authentication, JWT, Redux Toolkit, REST APIs, and Deployment**  
@@ -94,3 +94,4 @@
 </div> 
 <br>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apolo-itnet&theme=gotham" alt="apolo-itnet" /></p>
+---
