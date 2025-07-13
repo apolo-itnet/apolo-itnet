@@ -14,7 +14,7 @@
 - 🎯 Skilled in turning business requirements into efficient, modern web apps  
 - 🌱 Currently exploring advanced topics like **Authentication, JWT, Redux Toolkit, REST APIs, and Deployment**  
 - 🧰 Passionate about writing clean, scalable, and maintainable code  
-- 🌐 <a href="https://apolo-barua.netlify.app" target="_blank" >Visit My Portfolio</a>
+- 🌐 <a href="https://apolo-barua.netlify.app" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
 - 📫 Reach me at: **apolo.itnet@gmail.com**
  <br>
 
@@ -49,22 +49,22 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/apolo-itnet/PH-B11-ABTracko-Client"><b>Courier & Delivery Project</b></a></td>
+      <td><a href="https://github.com/apolo-itnet/PH-B11-ABTracko-Client"><b>Courier & Delivery</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/apolo-itnet/PH-B11-ABTracko-Client?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/apolo-itnet/PH-B11-ABTracko-Client?style=flat-square&labelColor=343b41"/></td>
-      <td><code>MERN, TailwindCSS, Firebase</code></td>
+      <td><code>MERN, TailwindCSS, Firebase, Vercel</code></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><code>React, TypeScript</code></td>
+      <td><a href="https://github.com/apolo-itnet/LostTrace-Client"><b>Lost Trace </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/apolo-itnet/LostTrace-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/apolo-itnet/LostTrace-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><code>MERN, JWT, Firebase, Vercel, TailwindCSS, DaisyUI </code></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>GraphQL API Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><code>Node.js, Express, TypeScript, GraphQL</code></td>
+      <td><a href="https://github.com/apolo-itnet/Nest-Buddy-Client"><b>Nest Buddy</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/apolo-itnet/Nest-Buddy-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/apolo-itnet/Nest-Buddy-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><code>MERN, Firebase, Vercel, TailwindCSS, DaisyUI </code></td>
     </tr>
   </tbody>
 </table>
