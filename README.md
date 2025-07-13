@@ -14,7 +14,7 @@
 - 🎯 Skilled in turning business requirements into efficient, modern web apps  
 - 🌱 Currently exploring advanced topics like **Authentication, JWT, Redux Toolkit, REST APIs, and Deployment**  
 - 🧰 Passionate about writing clean, scalable, and maintainable code  
-- 🌐 Visit my portfolio: [ab-itnet.com](https://www.apolo-barua.netlify.app)  
+- 🌐 Visit my portfolio: [https://www.apolo-barua.netlify.app]
 - 📫 Reach me at: **apolo.itnet@gmail.com**
  <br>
 
