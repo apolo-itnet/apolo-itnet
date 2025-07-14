@@ -1,4 +1,4 @@
-![Cover Image] <img align="center" src="https://i.postimg.cc/DyYhKTXZ/1.png" /> <hr>
+<img align="center" src="https://i.postimg.cc/DyYhKTXZ/1.png" /> <hr>
 
 <h1 align="center">Hi 👋, I'm Apolo Barua Apurbo</h1>
 <h3 align="center">A passionate and detail-oriented MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
