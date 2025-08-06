@@ -49,10 +49,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/apolo-itnet/PH-B11-ABTracko-Client"><b>Courier & Delivery</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/apolo-itnet/PH-B11-ABTracko-Client?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/apolo-itnet/PH-B11-ABTracko-Client?style=flat-square&labelColor=343b41"/></td>
-      <td><code>MERN, TailwindCSS, Firebase, Vercel</code></td>
+      <td><a href="https://github.com/apolo-itnet/PH-B11-ABTracko-Client"><b>Medi Rally</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/apolo-itnet/MediRally-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/apolo-itnet//MediRally-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><code>MERN, Stripe, Firebase Admim SDK, TailwindCSS, Firebase, Vercel</code></td>
     </tr>
     <tr>
       <td><a href="https://github.com/apolo-itnet/LostTrace-Client"><b>Lost Trace </b></a></td>
