@@ -24,15 +24,16 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS3" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS" />  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" />  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS" />  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40" alt="Dev Tools" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS" />  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,figma" height="40" alt="Dev Tools" />  <img width="12" />
 </div>
 
 <!-- <div>
