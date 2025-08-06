@@ -60,7 +60,7 @@
     <tr>
       <td><a href="https://github.com/apolo-itnet/MediRally-Client"><b>Medi Rally</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/apolo-itnet/MediRally-Client?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/apolo-itnet//MediRally-Client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/apolo-itnet/MediRally-Client?style=flat-square&labelColor=343b41"/></td>
       <td><code>MERN, Stripe, Firebase Admim SDK, TailwindCSS, Firebase, Vercel</code></td>
     </tr>
     <tr>
