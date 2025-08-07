@@ -21,6 +21,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
           # optional customizations:
+          theme: dark
           color_snake: '#00ff00'
           color_dots: '#5555ff,#3333cc,#111199,#000000,#444444'
           animation_duration: 2s  # control speed
