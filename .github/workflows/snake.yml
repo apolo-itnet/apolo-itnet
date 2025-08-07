@@ -14,14 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-        - name: Generate Snake SVG (with dark background)
+      - name: Generate Snake SVG (with dark background) 
         uses: Sutil/snk@master
         with:
           github_user_name: apolo-itnet
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: '#00ffff'  # blue-ish
           # You can tweak this as needed
-
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
