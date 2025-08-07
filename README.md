@@ -20,7 +20,8 @@
 
  ---
  
-### 🛠️ Tech Stack & Tools
+
+### <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />  <img width="12" />
@@ -35,14 +36,6 @@
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,figma" height="40" alt="Dev Tools" />  <img width="12" />
 </div>
-
-<!-- <div>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase" />
-  </a>
-</p>
-</div> -->
 
 ---
 
