@@ -102,5 +102,6 @@
 ---
 
 <div align="center">
-![Snake animation](https://github.com/apolo-itnet/apolo-itnet/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/apolo-itnet/apolo-itnet/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
