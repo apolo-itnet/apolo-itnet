@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Give write permission to push
+  contents: write
 
 jobs:
   generate:
@@ -14,20 +14,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVG with custom settings
+        uses: Platane/snk@v3  # ✅ Use full version instead of svg-only
         with:
           github_user_name: apolo-itnet
           outputs: |
             dist/github-contribution-grid-snake.svg
-          # optional customizations:
-          theme: dark
-          color_snake: '#00ff00'
-          color_dots: '#5555ff,#3333cc,#111199,#000000,#444444'
-          animation_duration: 2s  # control speed
+          color_snake: "#00bfff"  # ✅ Blue snake
+          color_dots: "#1a1a1a,#333333,#444444,#666666,#000000"
+          animation_duration: 4s  # ✅ Slower animation
+          theme: dark  # ✅ Dark background
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
