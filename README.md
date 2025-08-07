@@ -100,3 +100,8 @@
 </p>
 
 ---
+
+<div align="center">
+  ![snake gif](https://github.com/apolo-itnet/apolo-itnet/blob/output/github-contribution-grid-snake.svg)
+
+</div>
