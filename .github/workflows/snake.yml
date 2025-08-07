@@ -18,13 +18,15 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake SVG with custom settings
-        uses: Platane/snk@v3  # ✅ Use full version instead of svg-only
+        uses: Platane/snk@v3
         with:
           github_user_name: apolo-itnet
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
-            snake_color: 'blue'
-            
+          color_snake: '#00bfff'                  # Neon Blue snake
+          color_dots: '#1a1a1a,#333333,#444444'   # Dark theme dots
+          animation_duration: 4s                  # Slower animation
+          theme: dark                             # Enable dark background
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
