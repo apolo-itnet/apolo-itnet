@@ -133,7 +133,8 @@
 
 
 ---
-<h3 align="center"> Snake </h3>
+
+<h3 align="center">🐍 Snake Contributions</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/apolo-itnet/apolo-itnet/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
