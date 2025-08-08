@@ -100,17 +100,40 @@
 ---
 
 <h3 align="center"> 📊 GitHub Stats: </h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apolo-itnet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&card_width=450&locale=en&hide_border=false" height="150" alt="apolo-itnet"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apolo-itnet&theme=gotham"  height="150"  alt="apolo-itnet" />
-</div> 
-<br>
-<p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apolo-itnet&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
-</p>
+
+<!-- Profile Stats + Streak Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=apolo-itnet&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=false" 
+  height="150" 
+  alt="GitHub Stats" 
+/>
+<img 
+  src="https://streak-stats.demolab.com?user=apolo-itnet&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
+  height="150" 
+  alt="GitHub Streak" 
+/>
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolo-itnet&layout=compact&theme=gotham&hide_border=false" 
+  height="150" 
+  alt="Top Languages" 
+/>
+
+</div>
 
 ---
 
+<h3 align="center"> 🏆 GitHub Trophies </h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apolo-itnet&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+
+---
+<h3 align="center"> Snake </h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/apolo-itnet/apolo-itnet/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
