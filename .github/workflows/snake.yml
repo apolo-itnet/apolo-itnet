@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Give write permission to push
+  contents: write
 
 jobs:
   generate:
@@ -18,12 +18,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: apolo-itnet
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-          # optional customizations:
-          color_snake: '#00ff00'
-          color_dots: '#5555ff,#3333cc,#111199,#000000,#444444'
-          animation_duration: 2s  # control speed
+          outputs: dist/github-contribution-grid-snake.svg
+          color_snake: orange
+          color_dots: '#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9'
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
