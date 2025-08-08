@@ -1,7 +1,7 @@
 <img align="center" src="https://i.postimg.cc/DyYhKTXZ/1.png" /> <hr>
 
 <h1 align="center">Hi 👋, I'm Apolo Barua Apurbo</h1>
-<h3 align="center">A passionate and detail-oriented MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate and detail-oriented MERN Stack Web Developer from Bangladesh </h3>
 
 <img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
@@ -9,19 +9,43 @@
   <img src="https://komarev.com/ghpvc/?username=apolo-itnet&label=Profile%20views&color=0e75b6&style=flat" alt="apolo-itnet" />
 </p>
 
-- 🔭 Currently working at **Chevron Clinical Laboratory** as a Sr. Executive Officer ICT
-- 💻 Building full-stack web applications with **React.js**, **Firebase**, **Node.js**, **Express**, and **MongoDB**  
-- 🎯 Skilled in turning business requirements into efficient, modern web apps  
-- 🌱 Currently exploring advanced topics like **Authentication, JWT, Redux Toolkit, REST APIs, and Deployment**  
-- 🧰 Passionate about writing clean, scalable, and maintainable code  
-- 🌐 <a href="https://apolo-barua.netlify.app" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
-- 📫 Reach me at: **apolo.itnet@gmail.com**
- <br>
+- 🔭 **Currently Working:** Sr. Executive Officer – ICT at **Chevron Clinical Laboratory**, with **15+ years** of professional experience in the healthcare IT sector.  
+- 🎓 **MERN Stack Developer (Fresher):** Passionate about creating modern and user-friendly full-stack web applications.  
+- 📚 **Learning Journey:** Completed MERN Stack development course from **Programming Hero**.  
+- 💻 **Skills & Tools:** Experienced in using MERN, Stripe, Firebase, and Vercel for building and deploying web applications.  
+- 🚀 **Current Project:** Working on **Zap Shift**, a complete full-stack project to enhance my real-world development skills.  
+- 🌱 **Currently Learning:** Exploring **Next.js** and **TypeScript** to strengthen my knowledge of advanced web technologies.  
+- 🧰 **Passion:** Writing clean, maintainable code and continuously improving problem-solving abilities.  
+
+---
+
+<h3 align="center">🌐 Connect with Me 🍬</h3>
+<div align="center">
+   <a href="https://apolo-barua.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=0A66C2&logoColor=white&labelColor=&style=flat" height="22" alt="portfolio logo"  />
+  </a>
+  <a href="mailto:apolo.itnet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="22" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/iniamapolo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="22" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/apoloitnet" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="22" alt="twitter logo"  />
+  </a>
+  <a href="https://facebook.com/apolo.itnet" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="22" alt="facebook logo"  />
+  </a>
+  <a href="https://youtube.com/@nogorpothik.official" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="22" alt="youtube logo"  />
+  </a>
+</div>
+
 
  ---
  
 
-### <h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />  <img width="12" />
@@ -72,20 +96,6 @@
 </table>
 
 <br>  
-
----
-
-<h3 align="center">🌐 Connect with Me 🍬</h3>
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="22" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="22" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="22" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="22" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="22" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="22" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="22" alt="youtube logo"  />
-</div>
-<br>
 
 ---
 
